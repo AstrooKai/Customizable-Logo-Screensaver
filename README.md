@@ -13,5 +13,5 @@ function preload() {
 Thats it! Now run your project and see your own bouncing logo, Amazing!
 
 
-*Codes in this repositiry are derived and revised from <a href="https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_131_BouncingDVDLogo/P5">CodingTrain/website/CodingChallenges/CC_131_BouncingDVDLogo/P5/</a> repository
+*Codes in this repository are derived and revised from <a href="https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_131_BouncingDVDLogo/P5">CodingTrain/website/CodingChallenges/CC_131_BouncingDVDLogo/P5/</a> repository
 Credits to @gruselhaus & @CodingTrain*
