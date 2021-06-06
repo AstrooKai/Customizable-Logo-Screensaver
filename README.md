@@ -4,7 +4,7 @@ Do you want to have a bouncing logo screensaver like <a href="https://th.kyle9.r
 1. Git clone or import this repository to your project.
 2. Edit the title and og tagd in the head of the `page.html` file with your own settings, this is for the web title and URL preview.
 3. Upload your logo to your project.
-4. Add the file name of your logo in this part.
+4. Add the file name of your logo in this part in `sketch.js`.
 ```js
 function preload() {
   logo = loadImage('filename.format'); //Example: logo.png
