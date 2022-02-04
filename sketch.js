@@ -9,7 +9,7 @@ let logo;
 let r, g, b;
 
 function preload() {
-  logo = loadImage('TH_logo.jpg'); //Change this with your logo filename
+  logo = loadImage('logo.jpg'); //Change this with your logo filename
 }
 
 function setup() {
